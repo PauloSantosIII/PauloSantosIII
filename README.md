@@ -33,10 +33,19 @@ Vejo na programação uma oportunidade de criar coisas novas e resolver problema
 ![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=flat-square&logo=jinja&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-234c34?style=flat-square&logo=django&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F54D27?style=flat-square&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336790?style=flat-square&logo=PostgreSQL&logoColor=white)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=PauloSantosIII)
+---
+### 👀 Estou interessado em
 
+- Projetos front e back-end;
+- Design UX;
+- TDD.
+
+---
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/PauloSantosIII/) 
 [<img src = "https://img.shields.io/badge/gitlab-bb5146.svg?&style=for-the-badge&logo=gitlab&logoColor=white">](https://www.gitlab.com/PauloSantosIII/)
 [<img src = "https://img.shields.io/badge/stackoverflow-f19449.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white">](https://stackoverflow.com/users/15062425/paulosantosiii)
 [<img src="https://img.shields.io/badge/linkedin_english-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/PauloSantosIII/?locale=en_US)
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=PauloSantosIII)
