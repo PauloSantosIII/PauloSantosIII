@@ -57,6 +57,6 @@ Vejo na programação uma oportunidade de criar coisas novas e resolver problema
 ---
 ## Estatísticas GitHub:
 <div>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSantosIII&hide=html&layout=compact&theme=radical' width='500px' />
-<img src='https://github-readme-stats.vercel.app/api?username=PauloSantosIII&theme=radical&show_icons=true' width='500px' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSantosIII&hide=html&layout=compact&theme=radical' width='400px' />
+<img src='https://github-readme-stats.vercel.app/api?username=PauloSantosIII&theme=radical&show_icons=true' width='400px' />
 </div>
