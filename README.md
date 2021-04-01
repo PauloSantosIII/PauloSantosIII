@@ -1,4 +1,4 @@
-<img src='https://paulosantosiii.vercel.app/static/media/logo.e639c08b.png'>
+<img src='https://paulosantosiii.vercel.app/static/media/logo.e639c08b.png' style='background: black'>
 
 # 😱 Sobre mim
 ###	 Hi 👋 Meu nome é Paulo Santos, sou programador Front End.
