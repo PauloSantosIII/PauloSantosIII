@@ -29,6 +29,7 @@ Vejo na programação uma oportunidade de criar coisas novas e resolver problema
 ![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-7248B6?style=flat-square&logo=Redux&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)
 
 ---
 ## 💽 Back End;
